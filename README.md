@@ -1,7 +1,7 @@
 Hi 👋 My name is Besart Zeka
 ============================
 
-Web Developer
+Full-Stack Web Developer | Laravel Expert | API Integrations & Scalable Back-End Systems
 -------------
 
 I've been in software engineering field since 2017. Started with Java and PHP for some school project and ended up building ERP application using ASP .NET MVC, and Laravel at work, with a solid understanding of OOP. Later I progressed as a small team leader, with additional involvement in architecture designs of our projects. Coding is my passion, and I thrive to have my code clean, so others would easily collaborate.
