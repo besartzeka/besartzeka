@@ -36,22 +36,4 @@ Backend-leaning full-stack engineer building software since 2017. I specialize i
 - External API integrations & middleware
 - Service-oriented & modular monolith architectures
 
-### Socials
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/besartzeka" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/linkedin.svg" width="32" height="32" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/besartzeka" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/github.svg" width="32" height="32" alt="GitHub" />
-  </a>
-  <a href="https://twitter.com/besartzeka" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/x.svg" width="32" height="32" alt="X / Twitter" />
-  </a>
-  <a href="https://www.instagram.com/zekabesart" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/instagram.svg" width="32" height="32" alt="Instagram" />
-  </a>
-  <a href="https://www.facebook.com/besart.e.zeka" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/facebook.svg" width="32" height="32" alt="Facebook" />
-  </a>
-</p>
+### Socials <p align="left"> <a href="https://www.linkedin.com/in/besartzeka"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/besartzeka"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://twitter.com/besartzeka"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /> </a> <a href="https://www.instagram.com/zekabesart"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> <a href="https://www.facebook.com/besart.e.zeka"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /> </a> </p>
